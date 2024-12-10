@@ -1,0 +1,36 @@
+I fell into the "pl2303hxa phased out since 2012" issue today, needing to access two #Fortinet #FG-80C devices (to confirm they worked, ensure they had the default UID/password and configs, etc.)
+
+So I grabbed the trusty #serial to #USB dongle and a crossover cable - it was a #cisco labeled one even. 
+
+Went to use my #Thinkpad running #win11 and after updating the drivers using Windows update received the dreaded "pl2303hxa phased out since 2012, please contact your supplier" message - and would not tell you what #COM port was configured. 
+
+Well, #WTH ?!?
+
+Some further research has two theories on the motives by #Prolific (the makers of the #chipset supposedly used in the #dongle ) 
+1) Prolific wants to sell more hardware. Which, get bent Prolific, nice way to backdate planned obsolescence 
+2) Seems a ton of fake, cheap dongles use a fake chipset based on Prolific's design. Prolific released a driver that identifies these cables, and will not allow the use of their driver for these fake dongles. 
+
+Again, go get bent Prolific. I can relate to the issues involved here, but go after the fakes not your customer base. I have no idea how long this dongle has been in my toolbox, or where it came from - and I'm certainly not going to throw away a perfectly good dongle. 
+
+There is a solution, follow along on this #github page and install their driver from 2008 that does not conduct this chipset check. All will work fine. 
+https://github.com/polachp/pl2303-legacy-w11
+
+This has an amazing walk through with #screenshots : 
+https://lnkd.in/gvj-bUis
+
+
+This person did an amazing analysis on the actual code, identifying the chipset checks Prolific added:
+https://indiaoncloud.com/prolific-pl2303-phased-out-since-2012-please-contact-your-supplier/
+
+Other References:
+https://haprofs.com/pl2303hxa-phased-out-since-2012-please-contact-your-supplier-solved/
+https://saptaji.com/2024/01/19/usb-to-serial-pl2303hxa-phased-out-since-2012-solution-in-window-11/
+
+
+#networking #security #infosec #firewall #FortiOS 
+#vintagecomputing 
+#vintagecomputing #vintagecomputint #vintagecomputer #vintagecomputers #vintagecomputalk #vintagehardware
+#computerHistory #retro #retrocomputing #retroComputers
+#WallOfRetro #retroTech #retroTechnology
+#nerdsOfVintage #happyNerding
+#computer #tech
