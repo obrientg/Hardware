@@ -1,0 +1,81 @@
+
+The next thinkpad on my workbench is an E450 – I grabbed this from ewaste to provide a family member a better laptop. It has a i5-5200U at 2.2Ghz, and a max 16GB of DDR3L RAM so it can/should run Win11, Linux, or BSD with ease. The IO is ok, with multiple USB3 ports, HDMI, ethernet and a memory card reader. This is a decent form factor, weight, and would make a decent laptop for someone. Though no docking station capabilities, they removed the port underneath.  
+
+There is a big BUT with this laptop though: it keeps freezing, and the video is glitching. Which may be why it went to ewaste…
+
+I upgraded the DDR3L RAM to 16GB, and wiped the 500GB SSD that came with it.  
+Starting installing Win11, and I let it install and reboot so I could refill my tea – to come back and the laptop was frozen with a black screen. 
+I rebooted, and it froze on the initial Win11 change password screen. 
+I rebooted again, went into the Lenovo BIOS diagnostic tool, and started the full tests. As the test were running, I touched the nub and the video started glitching. Letting the test continue, the laptop froze while testing.  
+
+So, is this beyond time & effort to get working – pull the spare parts and move on from? 
+
+lenovo thinkpad e450 notes & research - 14” business notebook came with windows 8.1
+Bluetooth 	Bluetooth 4.0
+720p webcam, dual microphones, and speakers are optimized for video conferencing sessions. 802.11ac 
+Gigabit Ethernet connector, an HDMI port, and two USB 3.0 ports on the right side of the laptop. A headphone jack, a Kensington lock slot, and a USB 2.0 port are on the left, with an SD card reader on the front. There's a fingerprint reader
+
+DESIGN AND DIMENSIONS Lenovo ThinkPad E450 (20DC)
+Product Type 	Notebook
+Dimensions (WxDxH) 	33.9 cm x 23.9 cm x 2.4 cm
+Weight 	1.81 kg
+Case Material 	ABS plastic
+DISPLAY Lenovo ThinkPad E450 (20DC)
+Screen Size (Type) 	14"
+LCD Backlight Technology 	LED backlight
+Screen Resolution 	1366 x 768 (HD)
+Widescreen 	Yes
+Image Aspect Ratio 	16:9
+Image Brightness 	200 cd/m²
+Features 	Anti-glare
+PROCESSOR Lenovo ThinkPad E450 (20DC)
+CPU 	Intel Core i5 (5th Gen) 5200U / 2.2 GHz
+Max Turbo Speed 	2.7 GHz
+Number of Cores 	Dual-Core
+Cache 	3 MB
+64-bit Computing 	Yes
+Features 	Hyper-Threading Technology, integrated memory controller, Intel Turbo Boost Technology 2.0
+MEMORY Lenovo ThinkPad E450 (20DC)
+RAM 	4 GB
+Max RAM Supported 	16 GB
+RAM Type 	DDR3L SDRAM
+Speed 	1600 MHz / PC3L-12800
+Rated Speed 	1600 MHz
+Form Factor 	SO-DIMM 204-pin
+Slots Qty 	2
+AUDIO & VIDEO Lenovo ThinkPad E450 (20DC)
+Graphics Processor (GPU) 	AMD Radeon R7 M260
+Video Memory 	2 GB
+Camera 	Yes - 720p
+Sound 	Stereo speakers, two microphones
+Codec 	CX20751
+Compliant Standards 	High Definition Audio, Dolby Advanced Audio v4
+COMMUNICATIONS Lenovo ThinkPad E450 (20DC)
+Wireless 	802.11b/g/n
+Wireless Controller 	Realtek RTL8723BE - M.2 Card
+Network Interface 	Gigabit Ethernet
+Interfaces 	2 x USB 3.0	USB 2.0		LAN	HDMI
+OneLink connector		Headphone/microphone combo jack
+Memory Card Reader 	4 in 1 (SD Card, MultiMediaCard, SDHC Card, SDXC Card) 
+
+- poor battery life, but others say it was good
+- dim display?
+- no backlit keyboard
+- non-removable battery? 
+Possible alternate BIOS https://www.bios-mods.com/forum/showthread.php?tid=38082 
+https://pkbiosfix.com/threads/lenovo-thinkpad-e450-nm-a211-bios-bin-schamatic-boardview.1111/
+https://bios-fix.com/index.php?threads/lenovo-e450c-e450-bios-bin-photo-hd-schematic.1565/ 
+
+Specifications
+https://www.productindetail.com/pn/lenovo-thinkpad-e450-20dc
+https://www.lenovo.com/in/en/p/laptops/thinkpad/thinkpade/e450-sub-series/22tp2tee450
+https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/thinkpad-edge-laptops/thinkpad-e450/documentation 
+https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/thinkpad-edge-laptops/thinkpad-e450/downloads 
+
+Reviews: 
+https://www.laptopmag.com/reviews/laptops/lenovo-thinkpad-e450
+https://www.pcmag.com/reviews/lenovo-thinkpad-e450
+https://www.notebookcheck.net/Lenovo-ThinkPad-E450-Notebook-Review.146108.0.html
+https://notebooks.com/2015/06/20/lenovo-thinkpad-e450-review/
+https://www.mobiletechreview.com/notebooks/Lenovo-ThinkPad-E450.htm
+https://www.reddit.com/r/thinkpad/comments/2yuiit/e450_impressions/ (Arch linux install review) 
