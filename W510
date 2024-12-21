@@ -1,0 +1,48 @@
+The next ThinkPad on my workbench is a W510. I thought it was cool with the eSATA port as well as multiple USB3 ports, ExpressCard, DisplayPort, smartcard, memory card reader, DVD-CDRW, with a max 16GM of DDR3 RAM so it can run Win11 (if you are careful) or Linux/BSD with ease. This is the 2 SODIM slot model, so only 3 DIMMs.  
+No matter, this will be a good replacement for my workbench laptop for testing and wiping HardDrives and SSDs
+
+But: the processor is only an i7-Q720 1.6 Ghz 
+This will be a dog with Windoz IMHO
+
+
+So I am researching which & where to get a CPU upgrade. According to thinkwiki https://www.thinkwiki.org/wiki/Category:W510 Some models came with an Intel Quad Core Extreme Processor i7-920XM (2.0GHz 1333MHz 8MB L3). 
+
+Researching here, there have been a handful of threads with similar topics in past years, but nothing recent or that answered my questions below. Also some posts say that a i7-940XM would work in a W510, but it is unclear if that is only the motherboard with the 4 DIMM slots or would it work in the 2 DIMM slot model as well. 
+
+
+Any thoughts on 
+a) where to find one of these CPUs at a reasonable cost (other than ebay or AliExpress)? 
+b) Is/are there other CPUs that would work in the W510 motherboard that would provide more bang for the buck? 
+
+
+Thinkpad W510 research & notes
+
+https://www.thinkwiki.org/wiki/Category:W510
+2GB (1 DIMM) or 4GB (2 DIMMs) PC3-10600 memory standard upgradable to 8GB (2 DIMM slots) or 16GB (4 DIMM slots) (note that at least some 4 slot models accepts 32GB - confirmed with W510 4391-BB6 and 4x8GB Corsair Vengenance 1600MHz = 2x CMSX16GX3M2A1600C10, all detected and usable by Windows 7 64-bit. Perhaps 2 slot models will accept 16 GB?)
+
+https://en.wikipedia.org/wiki/ThinkPad_W_series#W510
+Processor: up to 2.0 GHz Intel Core i7-920XM Extreme 
+Memory: up to 32 GB @ 1,333 MT/s DDR3 (4 DIMM sockets)
+DDR3 1333Mhz, Up to
+16GB (2 slots, dual-core)
+32GB (4 slots, quad-core) 
+
+Docks https://www.thinkwiki.org/wiki/ThinkPad_Series_3_Dock_Comparison 
+ThinkPad Mini-Dock Plus Series 3 90W/135W/170W, Type 4338 (433810U/433815U/433820U/433830U/433835U) https://www.thinkwiki.org/wiki/ThinkPad_Mini-Dock_Plus_Series_3
+ThinkPad Mini-Dock Series 3, Type 4337 (433710U/433715U) https://www.thinkwiki.org/wiki/ThinkPad_Mini-Dock_Series_3 
+ThinkPad Port Replicator Series 3, Type 4336 (433610W/433615W) 
+https://www.thinkwiki.org/wiki/ThinkPad_Port_Replicator_Series_3
+
+Modded bios, overclocking W510 with i7-720QM
+https://forum.thinkpads.com/viewtopic.php?f=48&t=132901&p=860086&hilit=w510+cpu#p860086 
+
+Reviews
+https://www.newegg.com/black-thinkpad-w-series-w510/p/N82E16834146818
+https://www.notebookcheck.net/Review-Lenovo-Thinkpad-W510-4319-29G-Notebook.26594.0.html
+https://laptoping.com/lenovo-thinkpad-w510.html
+
+
+
+
+
+
