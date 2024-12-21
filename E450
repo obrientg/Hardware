@@ -10,6 +10,18 @@ I rebooted again, went into the Lenovo BIOS diagnostic tool, and started the ful
 
 So, is this beyond time & effort to get working – pull the spare parts and move on from? 
 
+Update: 
+Since posting, the laptop would not POST at all – the “I” in thinkpad would light up, but nothing. 
+
+Per recommendations form the local vintage computer folks: swap out the DIMMs.
+
+I pulled the two Crucial 8GB DIMMs and tried (what should be the original) 4GB DIMMs. Laptop booted up, and am running through the Lenovo diagnostic tests currently. The video glitch when using the nub is gone. 
+
+Seems those two Crucial 8GB DIMMs may have passed the POST, they have issues or are not actually compatible with this Lenovo. 
+
+
+
+
 lenovo thinkpad e450 notes & research - 14” business notebook came with windows 8.1
 Bluetooth 	Bluetooth 4.0
 720p webcam, dual microphones, and speakers are optimized for video conferencing sessions. 802.11ac 
