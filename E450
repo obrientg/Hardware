@@ -16,10 +16,9 @@ Since posting, the laptop would not POST at all – the “I” in thinkpad woul
 Per recommendations form the local vintage computer folks: swap out the DIMMs.
 
 I pulled the two Crucial 8GB DIMMs and tried (what should be the original) 4GB DIMMs. Laptop booted up, and am running through the Lenovo diagnostic tests currently. The video glitch when using the nub is gone. 
-
 Seems those two Crucial 8GB DIMMs may have passed the POST, they have issues or are not actually compatible with this Lenovo. 
 
-
+Installed two Samsung 8GB DIMMs, which booted up and are passing the Lenovo memory tests fine. 
 
 
 lenovo thinkpad e450 notes & research - 14” business notebook came with windows 8.1
