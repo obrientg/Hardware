@@ -1,0 +1,16 @@
+Google Wifi "puck" (AC-1304)
+
+There is also a "HD2" also known as a GJ2CQ. Unlike the AC-1304 it does not use a USB-C for power, but a DC barrel input (14V@1.1A) instead. According to the OpenWRT wiki installation on the GJ2CQ requires soldering a USB port to four test points located on the PCB and using a screwdriver to short the unpopulated SW7 contacts at the appropriate time during installation. Thankfully I only have one of these, and I'll save it till last. 
+
+If you follow the directions between these links:  
+https://openwrt.org/toh/google/wifi 
+and with the updated details in this thread https://forum.openwrt.org/t/finally-installed-openwrt-on-my-google-wifi-ac-1304/183541/2 you can get OpenWRT installed on these "pucks" (AC-1304).
+
+Then, if you want to use some of those as repeaters, then follow this tutorial 
+https://openwrt.org/docs/guide-user/network/wifi/relay_configuration 
+and the video at 
+https://www.youtube.com/watch?v=Bfmx5NjIWLQ
+
+I will say, the boot process and intial webUI is really slow. Once you get logged in, it works ok. 
+
+This are 802.11AC on the 5Ghz, so they should work well as wiFi repeaters (I hope). 
