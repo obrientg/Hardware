@@ -1,5 +1,5 @@
-#Google Wifi "puck" (AC-1304) and OpenWRT 
-  
+#Google Wifi "puck" (AC-1304) and OpenWRT  
+    
 There is also a "HD2" also known as a GJ2CQ. Unlike the AC-1304 it does not use a USB-C for power, but a DC barrel input (14V@1.1A) instead.   
 According to the OpenWRT wiki installation on the GJ2CQ requires soldering a USB port to four test points located on the PCB and using a screwdriver to short the unpopulated SW7 contacts at the appropriate time during installation.   
 These GJ2CQ are more round/oval in shape, where the AC-1304 are sharp, round pucks. Thankfully I only have one of these GJ2CQ requiring the soldering skills, so I'll save it till last or pay it forward/give it away/sell it.   
