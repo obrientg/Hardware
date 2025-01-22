@@ -25,3 +25,4 @@ You need the following, and best gather and format/image first before starting:
 - spunger and/or smalelr flathead screwdriver, to pop off the base ofthe case to access the Write-Protect screw and the button to force Developer mode.   
   
 # To install: 
+
