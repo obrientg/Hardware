@@ -1,4 +1,4 @@
-Google Wifi "puck" (AC-1304) and OpenWRT 
+#Google Wifi "puck" (AC-1304) and OpenWRT 
   
 There is also a "HD2" also known as a GJ2CQ. Unlike the AC-1304 it does not use a USB-C for power, but a DC barrel input (14V@1.1A) instead.   
 According to the OpenWRT wiki installation on the GJ2CQ requires soldering a USB port to four test points located on the PCB and using a screwdriver to short the unpopulated SW7 contacts at the appropriate time during installation.   
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=Bfmx5NjIWLQ
   
 I will say, the boot process and intial webUI is sluggish. Once you get logged in, it works ok.   
   
-This are 802.11AC on the 5Ghz, and seem to be working well as wiFi repeater.  
+These pucks have 802.11AC on the 5Ghz, and are working well as wiFi repeater for us using the 802.11N as the "backhaul" link to the main router AP.  
   
 # Some notes from my install:   
 You need the following, and best gather and format/image first before starting:  
