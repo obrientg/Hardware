@@ -4,13 +4,12 @@ Note there are two verisnos of the "puck". There is also a "HD2" also known as a
 According to the OpenWRT wiki, installation on the GJ2CQ requires soldering a USB port to four test points located on the PCB and using a screwdriver to short the unpopulated SW7 contacts at the appropriate time during installation.   
 These GJ2CQ are more round/oval in shape, where the AC-1304 are sharp, round think white hockey pucks. Thankfully, I only have one of these GJ2CQ requiring the soldering skills, so I'll save it till last or pay it forward/give it away/sell it. These AC-1304 will be put to good use though.    
   
-If you follow the directions between these links:    
-https://openwrt.org/toh/google/wifi   
-and with the updated details in this thread https://forum.openwrt.org/t/finally-installed-openwrt-on-my-google-wifi-ac-1304/183541/2 you can get OpenWRT installed on these "pucks" (AC-1304).  
+If you follow the directions between these two OpenWRT pages:    
+The [information page with the older instructions at https://openwrt.org/toh/google/wifi](https://openwrt.org/toh/google/wifi)     
+and with the updated details in [this forum post thread at https://forum.openwrt.org/t/finally-installed-openwrt-on-my-google-wifi-ac-1304/183541/2]( https://forum.openwrt.org/t/finally-installed-openwrt-on-my-google-wifi-ac-1304/183541/2) you can get OpenWRT installed on these "pucks" (AC-1304).  
   
-Then, if you want to use thge puck as a repeater, then follow this tutorial   
-https://openwrt.org/docs/guide-user/network/wifi/relay_configuration   
-and the Youtube video at https://www.youtube.com/watch?v=Bfmx5NjIWLQ     
+Then, if you want to use thge puck as a repeater, then follow the [OpenWRT tutorial at https://openwrt.org/docs/guide-user/network/wifi/relay_configuration](https://openwrt.org/docs/guide-user/network/wifi/relay_configuration)      
+and the [Youtube video at https://www.youtube.com/watch?v=Bfmx5NjIWLQ](https://www.youtube.com/watch?v=Bfmx5NjIWLQ)      
   
 There are also directions on the OpenWRT web site/wiki/fourums on how to implement mesh, but I have not gone down that path as of yet. 
   
