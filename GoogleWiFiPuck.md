@@ -10,7 +10,7 @@ and with the updated details in this thread https://forum.openwrt.org/t/finally-
   
 Then, if you want to use thge puck as a repeater, then follow this tutorial   
 https://openwrt.org/docs/guide-user/network/wifi/relay_configuration   
-and the (Youtube video at https://www.youtube.com/watch?v=Bfmx5NjIWLQ)[https://www.youtube.com/watch?v=Bfmx5NjIWLQ]   
+and the Youtube video at https://www.youtube.com/watch?v=Bfmx5NjIWLQ     
   
 There are also directions on the OpenWRT web site/wiki/fourums on how to implement mesh, but I have not gone down that path as of yet. 
   
