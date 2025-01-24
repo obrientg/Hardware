@@ -5,7 +5,7 @@ According to the OpenWRT wiki, installation on the GJ2CQ requires soldering a US
 These GJ2CQ are more round/oval in shape, where the AC-1304 are sharp, round think white hockey pucks. Thankfully, I only have one of these GJ2CQ requiring the soldering skills, so I'll save it till last or pay it forward/give it away/sell it. These AC-1304 will be put to good use though.    
   
 If you follow the directions between these two OpenWRT pages:    
-The [information page with the older instructions at https://openwrt.org/toh/google/wifi](https://openwrt.org/toh/google/wifi)     
+The [information page with the older instructions at https://openwrt.org/toh/google/wifi]  
 and with the updated details in [this forum post thread at https://forum.openwrt.org/t/finally-installed-openwrt-on-my-google-wifi-ac-1304/183541/2]( https://forum.openwrt.org/t/finally-installed-openwrt-on-my-google-wifi-ac-1304/183541/2) you can get OpenWRT installed on these "pucks" (AC-1304).  
   
 Then, if you want to use thge puck as a repeater, then follow the [OpenWRT tutorial at https://openwrt.org/docs/guide-user/network/wifi/relay_configuration](https://openwrt.org/docs/guide-user/network/wifi/relay_configuration)      
@@ -21,9 +21,10 @@ These pucks have 802.11AC on the 5Ghz, and are working well as wiFi repeater for
 # Some notes from my install:   
 You need the following items, and best gather and format/image first before starting:  
 - Two (2) thumbdrives, 2GB or larger in size, and it helps if they have an activity light. When updating/flashing the Puck you are "flying blind" without any indicators; it really helps to have the indicator light on the USB drive letting you know things are still happening.   
-- Chrome browser on a Windows endpoint, with the OnHub Recovery utility add on installed: https://chromewebstore.google.com/detail/onhub-recovery-utility/fmgkgdalfapcmjnanilfcpkhkhedmpdm?hl=en Noe the OpenWRT install directions point you to the ChromeOS version, which only runs on a recent (non-EoL) version of ChromeOS.   
-- Phillips screwdriver, to remove the screw holding the outer case together and the Write-Protect screw  
-- spunger and/or smalelr flathead screwdriver, to pop off the base ofthe case to access the Write-Protect screw and the button to force Developer mode.   
+- Chrome browser on a Windows endpoint, with the [OnHub Recovery utility add on installed, downloaded from https://chromewebstore.google.com/detail/onhub-recovery-utility/fmgkgdalfapcmjnanilfcpkhkhedmpdm?hl=en](https://chromewebstore.google.com/detail/onhub-recovery-utility/fmgkgdalfapcmjnanilfcpkhkhedmpdm?hl=en). Note the [OpenWRT install directions point you to the ChromeOS version](https://openwrt.org/toh/google/wifi) of OnHub Recovery, which only runs on a recent (non-EoL) version of ChromeOS.   
+- Phillips screwdriver, to remove the screw holding the base of the puck from the rest of the outer case and the Write-Protect screw located inside.  
+- [Spudger](https://en.wikipedia.org/wiki/Spudger) and/or small flathead screwdriver, to pop off the base of the case after removing the screw holding it secure to the rest of the puck. You need this access to remove the Write-Protect screw and the button to force Developer mode.
+- Some sort of non-conductive stick to press the Developer mode button
   
 # To install: 
 
