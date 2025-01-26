@@ -16,7 +16,7 @@ There are also directions on the OpenWRT web site/wiki/fourums on how to impleme
 # Performance  
 I will say, the boot process and intial webUI is sluggish. Once you get logged in, it works ok.   
   
-These pucks have 802.11AC on the 5Ghz, and are working well as wiFi repeater for us using the 802.11N as the "backhaul" link to the main router AP.  
+These pucks have 802.11AC on the 5Ghz, and are working well as WiFi repeater for us with using the 802.11N as the "backhaul" link to the main AP/router.  
   
 # Some notes from my install:   
 You need the following items, and best gather and format/image first before starting:  
