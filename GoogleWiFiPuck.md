@@ -23,8 +23,19 @@ You need the following items, and best gather and format/image first before star
 - Two (2) thumbdrives, 2GB or larger in size, and it helps if they have an activity light. When updating/flashing the Puck you are "flying blind" without any indicators; it really helps to have the indicator light on the USB drive letting you know things are still happening.   
 - Chrome browser on a Windows endpoint, with the [OnHub Recovery utility add on installed, downloaded from https://chromewebstore.google.com/detail/onhub-recovery-utility/fmgkgdalfapcmjnanilfcpkhkhedmpdm?hl=en](https://chromewebstore.google.com/detail/onhub-recovery-utility/fmgkgdalfapcmjnanilfcpkhkhedmpdm?hl=en). Note the [OpenWRT install directions point you to the ChromeOS version](https://openwrt.org/toh/google/wifi) of OnHub Recovery, which only runs on a recent (non-EoL) version of ChromeOS.   
 - Phillips screwdriver, to remove the screw holding the base of the puck from the rest of the outer case and the Write-Protect screw located inside.  
-- [Spudger](https://en.wikipedia.org/wiki/Spudger) and/or small flathead screwdriver, to pop off the base of the case after removing the screw holding it secure to the rest of the puck. You need this access to remove the Write-Protect screw and the button to force Developer mode.
-- Some sort of non-conductive stick to press the Developer mode button
-  
-# To install: 
+- [Spudger](https://en.wikipedia.org/wiki/Spudger) and/or small flathead screwdriver, to pop off the base of the case after removing the screw holding it secure to the rest of the puck. You need this access to remove the Write-Protect screw and the button to force Developer mode.  
+- Some sort of non-conductive stick to press the Developer mode button  
+- Two (2) Ethernet cables: one to conenct the puck WAN port to your internet connection, the other connected to the puck's LAN port and the laptop you are working from  
+- A laptop to work from, with SCP and SSH capabilities (you will be logging into and uploading flies to the puck)  
+- Power supply for said laptop  
+- Power with USB C to power the Puck via the USB hub  
+- A USB hub having USB C power in & able to power the puck, along with USB A to connect the USB thumbdrive with the firmware  
+- Your beverage of choice, you need to stay hydrated  
 
+# USB thumbdrive & firmware prep:   
+  
+Before we start the install, best get the thumbdrives imaged with the OnHub Recovery utility and the initial OpenWRT image:  
+  
+# To install:  
+First you need to install the default, known good puck image via the OnHub Recovery utility  
+  
