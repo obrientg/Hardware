@@ -1,0 +1,29 @@
+Samsung Galaxy Tab A7 Lites, 32GB SM-T227U
+
+For those tablets in the hard plastic stands, there are likely the Samsung Galaxy Tab A7 Lites, 32GB SM-T227U
+I grabbed two to see what they were & how they could be reutilized. 
+
+Used a heat gun and/or Dremel to get the hard plastic case off; the heat gun should provide enough malleability to separate the case into two pieces or parts you can peel/break apart. Be very careful, it is easy to bend, dent, and scratch the tablet in the attempts to separate from the case. 
+
+The first tablet has some interesting scorch marks on the top, where the vent holes were in the case. There are also places where bits of the plastic are stuck to the frame of the tablet. Overheat perhaps? (see pics) The crusty left on the tablets will make it tough to remove the SIM cards from them.
+
+The first tablet still had 85% power, so I booted it up. It connects via 4G, verifies the mobile data plan is used up/turned off, and it forced me to connect to WiFi as it had been connected to a corp network before. It was wiped, and took me through the initial setup process and started downloading the update to Android 14. 
+Upgrade to 14 went fine, had to wait a bit to get security updates (initially was only patched to Dec 2023) which after a few updates ended up at patch level May 2025. 
+
+The second tablet was seemingly dead, would not turn on. Let it charge for a bit, and was able to get it powered up.  Similar startup experience, configuration, and patching as the first one. Physical condition it is better, though some scratches and a bend likely from my removal efforts.  
+
+This tablet feels thin in my hand, I definitely would want some sort of case/protection around it. With the latest updates and Samsung’s OneUI on this device it feels sluggish & will definitely be rooted with a more streamlined ROM (not to mention that ugly Verizon startup flash screen). These should work well as a Home Assistant controller/display in the house.
+
+There is documentation on how this model can be rooted:
+https://andrew.mtz.gr/posts/rooting-galaxy-tab-a7-lite/
+Some research is in order to determine a good ROM for these (or at least a GSI) to get rid of the Verizon & Samsung bloatware. Though it seems since these are the “Lite” version not many ROMS support it.  Lineage used to work, but https://xdaforums.com/t/guide-gsi-installing-lineage-os-twrp-hide-warnings.4725091/ though it seems the Android 16 is not supported as of yet https://wiki.lineageos.org/devices/gta4l/ 
+
+Lineage used to work, but https://xdaforums.com/t/guide-gsi-installing-lineage-os-twrp-hide-warnings.4725091/ though it seems the Android 16 is not supported as of yet https://wiki.lineageos.org/devices/gta4l/ 
+So at least a GSI to slim down the ROM/OS:  
+https://xdaforums.com/t/2024-a14-gsis-newer-releases-wouldnt-boot-anymore-t225.4662424/
+Note Android 15 was able at one point: https://xdaforums.com/t/samsung-galaxy-a7-lite-sm-t227u-android-15-success.4720205/ 
+Some suggestions for Project Elixir but the project is for pay now, and is scummy with deleting data & wiping the device if you modify the configuration.   https://www.reddit.com/r/Android/comments/1cuzvg6/to_my_fellow_android_custom_rom_enthusiasts_i/
+Other references: 
+https://www.getdroidtips.com/android-15-custom-rom-samsung-galaxy/
+https://xdaforums.com/t/any-rom-root-for-the-t227u-t-mobile-cellular-version.4465917/
+
