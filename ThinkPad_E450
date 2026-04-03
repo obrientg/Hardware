@@ -13,7 +13,7 @@ So, is this beyond time & effort to get working – pull the spare parts and mov
 Update: 
 Since posting, the laptop would not POST at all – the “I” in thinkpad would light up, but nothing. 
 
-Per recommendations form the local vintage computer folks: swap out the DIMMs.
+Per recommendations from the local vintage computer folks: swap out the DIMMs.
 
 I pulled the two Crucial 8GB DIMMs and tried (what should be the original) 4GB DIMMs. Laptop booted up, and am running through the Lenovo diagnostic tests currently. The video glitch when using the nub is gone. 
 Seems those two Crucial 8GB DIMMs may have passed the POST, they have issues or are not actually compatible with this Lenovo. 
